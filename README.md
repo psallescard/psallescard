@@ -1,4 +1,4 @@
-![Olá Mundo!](image.png)
+![Cove image](cover_image.png)
 
 ---
 
