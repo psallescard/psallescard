@@ -11,7 +11,7 @@
 
 ### About Me
 
-Although studying Production Engineering at Poli USP, my passion lies in **Mathematics, Technology, and Artificial Intelligence**. Since the beginning of college, I have immersed myself in programming as a hobby and a job.
+Although studying Production Engineering at Poli USP, my personal passion lies in **Mathematics, Technology, and Artificial Intelligence**. Since the beginning of college, I have immersed myself in programming as a hobby and a job.
 
 Currently, I focus my work on **Data Science**, **Data Engineering**, and **MLOps** in real-world projects.
 
@@ -33,7 +33,7 @@ My team and I developed a P2P credit solution for SaaS, packaging a full-stack s
 Our solution achieved 6th place among dozens of teams, enhancing my skills in *fast problem-solving*, entrepreneurship, project management, and team collaboration.
 
 #### 💼 Poli Júnior (Junior Enterprise of Poli USP)
-After a series of internal training sessions, I mastered the best practices of Web Scraping and Data Science. Combined with my curiosity and previous knowledge, this position allowed me to apply theoretical software and ML learning to real problems, learning to differentiate the good from the practical.
+After a series of internal training sessions, I mastered the best practices of Web Scraping and Data Science. Combined with my curiosity and previous knowledge, this position allowed me to apply theoretical software and ML concepts to real problems, learning to differentiate the good from the practical.
 
 I was a Project Analyst on the largest project ever sold by the company, being responsible, along with a colleague, for the development of an **automated Data Lake** and an **internal Chatbot** for a large engineering company.
 
