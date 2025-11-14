@@ -1,12 +1,5 @@
-<div align="center">
+![Olá Mundo!](image.png)
 
-# 👋 Hello, I'm **Pedro Salles**
-
-## Project Analyst | Production Engineering Student - USP
-
-</div>
-
----
 ---
 
 ### About Me
